@@ -1,3 +1,3 @@
-random = lambda x: x+5
+random = (lambda x: x+5) (15)
 
-print(random(15))
+print(random)
